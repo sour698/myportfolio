@@ -164,7 +164,7 @@ export default function About({ isDarkMode }: AboutProps) {
                 Let's Work Together
               </a>
               <a
-                href="/resume.pdf"
+                
                 className={`border-2 border-blue-600 hover:bg-blue-600 hover:text-white px-6 py-3 rounded-lg font-medium transition-all duration-300 transform hover:scale-105 whitespace-nowrap cursor-pointer ${ 
                   isDarkMode 
                     ? 'text-blue-400 border-blue-400 hover:bg-blue-400 hover:text-gray-900' 

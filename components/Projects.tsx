@@ -29,7 +29,7 @@ export default function Projects({ isDarkMode }: ProjectsProps) {
         'Data visualization with charts',
         'Database integration for student data'
       ],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/sour698/gradelytics.git",
       liveUrl: "https://demo.com"
     },
     {
@@ -45,7 +45,7 @@ export default function Projects({ isDarkMode }: ProjectsProps) {
         'Interactive form-based UI',
         'Real-world banking simulation'
       ],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/sour698/finotex.git",
       liveUrl: "https://demo.com"
     },
     {
@@ -61,7 +61,7 @@ export default function Projects({ isDarkMode }: ProjectsProps) {
         'Clean responsive UI',
         'Conversational weather assistance'
       ],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/sour698/Skytalk_weather.git",
       liveUrl: "https://demo.com"
     },
     {
@@ -77,7 +77,7 @@ export default function Projects({ isDarkMode }: ProjectsProps) {
         'Contextual AI responses',
         'Smart document analysis'
       ],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/sour698/arix.git",
       liveUrl: "https://demo.com"
     }
   ];
